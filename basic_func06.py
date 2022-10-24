@@ -7,7 +7,7 @@
 
 
 def main():
-    return ('ert')
+    return 34.6
  
 
 
