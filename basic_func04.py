@@ -2,8 +2,8 @@
 
 # Return the value integer type.
 def main():
-    return int()
-print(main())   
+    return 6
+print(main())  
 
 
     
