@@ -3,7 +3,7 @@
 # Return the value integer type.
 def main(x):
     return int(x)
-print(main((34.5)))
+print(main((34.5)))   
 
 
     
