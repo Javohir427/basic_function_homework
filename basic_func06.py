@@ -6,7 +6,9 @@
 #from os import RWF_HIPRI
 
 
-def main(x):
-    return(str(x))
+def main():
+    return ('ert')
+ 
 
-print(main(4+3))
+
+print(main())
