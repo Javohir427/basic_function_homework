@@ -8,7 +8,7 @@
 
 def main():
     return ('34.6a')
- 
+    
 
 
 print(main())
