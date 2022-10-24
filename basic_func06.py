@@ -7,7 +7,7 @@
 
 
 def main():
-    return 34.6
+    return ('34.6a')
  
 
 
