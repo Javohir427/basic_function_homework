@@ -5,6 +5,6 @@
 
 
 def main():
-    return 'hello world'
+    return 'Hello World'
 
 print(main())
